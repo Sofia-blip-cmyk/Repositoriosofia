@@ -1,0 +1,24 @@
+Direcccion e mi repositorio
+
+	https://github.com/Sofia-blip-cmyk/Repositoriosofia.git
+
+
+Listado de comandos para creación de repositorio
+
+	echo "# Repositoriosofia" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/Sofia-blip-cmyk/Repositoriosofia.git
+	git push -u origin main
+
+Listado de comandos para actualización del repositorio
+
+	
+	git add .
+	git commit -m "first commit"
+		
+	git push -u origin main
+
+
